@@ -1,4 +1,5 @@
 ## House-Rental-Monash-ADS1001
+A data-driven analysis and predictive modeling project investigating the key structural and locational factors influencing residential rental prices in Malaysia.
 # Project Overview
 Analyzed a comprehensive dataset of 19,990 residential property listings in the Klang Valley region (Kuala Lumpur & Selangor). The goal is to provide data-driven insights for policymakers and real estate investors regarding rent affordability and value drivers.
 # Tech Stack
